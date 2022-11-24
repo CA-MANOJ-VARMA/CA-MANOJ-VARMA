@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MANOJ VARMA</h1>
-<h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
+<h3 align="center">A passionate FRONT END DEVELOPER from India</h3>
 
 - 📫 How to reach me **camanojvarma@gmail.com**
 <p> I'm looking for opportunities in Web development -FRONT END, BACKEND OR FULL STACK</p>
