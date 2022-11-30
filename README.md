@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FRONT END DEVELOPER from India</h3>
 
 - 📫 How to reach me **camanojvarma@gmail.com**
-<p> I'm looking for opportunities in Web development -FRONT END, BACKEND OR FULL STACK</p>
+<p> I'm looking for opportunities in FRONT END DEVELOPMENT</p>
 <!-- <h3 align="left">Connect with me:</h3> -->
 
 <h3 align="left">SKILLS</h3>
