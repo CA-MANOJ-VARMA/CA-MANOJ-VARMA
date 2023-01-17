@@ -3,7 +3,7 @@
 
 <div>
   <p>My Portfolio Website - https://manojvarma.in</p>
-  <p>Follow Me on LinkedIn - [https://manojvarma.in](https://www.linkedin.com/in/manojvarmaurl/)</p>
+  <p>Follow Me on LinkedIn - https://manojvarma.in](https://www.linkedin.com/in/manojvarmaurl/</p>
 </div>
 
 - 📫 How to reach me **camanojvarma@gmail.com**
