@@ -3,7 +3,7 @@
 
 <div>
   <p>My Portfolio Website - https://manojvarma.in</p>
-  <p>Follow Me on LinkedIn - <a href="[https://www.python.org](https://www.linkedin.com/in/manojvarmaurl/)" target="_blank" rel="noreferrer"> Click Here </a></p>
+  <p>Follow Me on LinkedIn - <a href="https://www.linkedin.com/in/manojvarmaurl/" target="_blank" rel="noreferrer"> Click Here </a></p>
 </div>
 
 - 📫 How to reach me **camanojvarma@gmail.com**
