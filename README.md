@@ -2,7 +2,6 @@
 <h3 align="center">A passionate FRONT END DEVELOPER from India</h3>
 
 <div>
-  <p>My Portfolio Website - https://manojvarma.in</p>
   <p>Follow Me on LinkedIn - <a href="https://www.linkedin.com/in/manojvarmaurl/" target="_blank" rel="noreferrer"> Click Here </a></p>
 </div>
 
