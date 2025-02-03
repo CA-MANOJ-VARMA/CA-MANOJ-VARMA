@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MANOJ VARMA</h1>
-<h3 align="center">A passionate FRONT END DEVELOPER from India</h3>
+<!-- <h3 align="center">A tech enthusias</h3> -->
 
 <div>
   <p>Follow Me on LinkedIn - <a href="https://www.linkedin.com/in/manojvarmaurl/" target="_blank" rel="noreferrer"> Click Here </a></p>
